@@ -32,6 +32,10 @@ I just approach it in a [_weird_](https://en.wiktionary.org/wiki/weird#:~:text=C
 - **[mekomi](https://mekomi.dev/)** (@mekomidev)
   - We're a one-stop-shop for all of your cloud & development needs (design, development, cloud hosting)
 
+---
+ 
+I also contribute to open-source projects! 💚 Look at my repos below
+
 <!--
 ## \~Open source\~
 
