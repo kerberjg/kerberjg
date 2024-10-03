@@ -12,9 +12,9 @@ I'm a senior full-stack engineer, cloud architect and UI/UX designer!
 I'm passionate about creating UI with a great look&feel, I mainly work with Flutter/Dart (which I contribute to),            
 and build backends using Node.js, TypeScript, Docker/Kubernetes.
 
-I also spend a lot of time designing Cloud Architectured and writing Software Design Documents,              
+I also spend a lot of time designing Cloud Architectures and writing Software Design Documents,              
 I just approach it in a [_weird_](https://en.wiktionary.org/wiki/weird#:~:text=Connected%20with%20fate%20or%20destiny%3B%20able%20to%20influence%20fate.), esoteric way 🔮💅                
-(after all, [computers are magical rocks we tricked into thinking after we put lightning in them_](https://i.redd.it/o33ryb4zfc6z.jpg))
+(after all, [_computers are magical rocks we tricked into thinking after we put lightning in them_](https://i.redd.it/o33ryb4zfc6z.jpg))
 
 
 
