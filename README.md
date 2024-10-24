@@ -21,7 +21,7 @@ I just approach it in a [_weird_](https://en.wiktionary.org/wiki/weird#:~:text=C
 ### \~Trivia\~
 - 💅 **Hobbies**: cooking, games, quirky/chic fashion, tinkering with code/electronics 
 - 🍕 **Favorite snack**: pizza!
-- 💚 **Pronouns**: she/they
+- 💜 **Pronouns**: she/they
 - 👀 **Fun fact**: when I was in middle school I wrote a script to do my math homework for me because somehow that seemed easier (it wasn't - but was infinitely more interesting ☺️)
 
 
@@ -30,11 +30,11 @@ I just approach it in a [_weird_](https://en.wiktionary.org/wiki/weird#:~:text=C
 - **[DevStacks](https://devstacks.app/)** (@DevStacks-app)
   - We're building a next-gen Software Engineering cloud platform for education 🫶
 - **[mekomi](https://mekomi.dev/)** (@mekomidev)
-  - We're a one-stop-shop for all of your cloud & development needs (design, development, cloud hosting)
+  - We're a one-stop-shop consulting agency for all of your cloud & development needs (design, development, cloud hosting)
 
 ---
  
-I also contribute to open-source projects! 💚 Look at my repos below
+I also contribute to open-source projects! 💚 Check out the repos in my profile~
 
 <!--
 ## \~Open source\~
