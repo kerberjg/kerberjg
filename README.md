@@ -9,7 +9,7 @@
 
 I'm a senior full-stack engineer, cloud architect and UI/UX designer!
 
-I'm passionate about creating UI with a great look&feel, I mainly work with Flutter/Dart (which I contribute to),            
+I'm passionate about creating UI with a great look&feel, I mainly work with Flutter/Dart (which I contribute to), React,          
 and build backends using Node.js, TypeScript, Docker/Kubernetes.
 
 I also spend a lot of time designing Cloud Architectures and writing Software Design Documents,              
