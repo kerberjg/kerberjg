@@ -3,11 +3,10 @@
 
 
 ---
-<!--
-> Available for consulting! ✨ [Book a meeting with me]()
--->
+> 💚 **Available for consulting/freelance work! ✨ [Book a meeting with me 🙋🏼‍♀](https://meet.mekomi.dev/jamie-kerber/intro)**
 
-I'm a senior full-stack engineer, cloud architect and UI/UX designer!
+
+I'm a Senior Full-Stack Engineer👩‍💻, Cloud Architect☁️ and UI/UX Designer💅!
 
 I'm passionate about creating UI with a great look&feel, I mainly work with Flutter/Dart (which I contribute to), React,          
 and build backends using Node.js, TypeScript, Docker/Kubernetes.
