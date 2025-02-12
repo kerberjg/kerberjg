@@ -3,7 +3,7 @@
 
 
 ---
-> 💚 **Available for consulting/freelance work! ✨ [Book a meeting with me 🙋🏼‍♀](https://meet.mekomi.dev/jamie-kerber/intro)**
+<!-- > 💚 **Available for consulting/freelance work! ✨ [Book a meeting with me 🙋🏼‍♀](https://meet.mekomi.dev/jamie-kerber/intro)** -->
 
 
 I'm a Senior Full-Stack Engineer👩‍💻, Cloud Architect☁️ and UI/UX Designer💅!
