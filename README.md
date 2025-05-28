@@ -25,7 +25,7 @@ I just approach it in a [_weird_](https://en.wiktionary.org/wiki/weird#:~:text=C
 
 
 
-### \~What do I do for work?\~
+### \~What am I working on?\~
 - Consulting at **[Very Good Ventures](https://verygood.ventures/)** (@vgventures)
 - Building the **[filament_scene](https://github.com/toyota-connected/tcna-packages/tree/main/packages/filament_scene)** game engine at @toyota-connected
 - **[mekomi](https://mekomi.dev/)** (@mekomidev)
