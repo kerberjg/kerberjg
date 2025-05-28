@@ -26,8 +26,8 @@ I just approach it in a [_weird_](https://en.wiktionary.org/wiki/weird#:~:text=C
 
 
 ### \~What do I do for work?\~
-- **[DevStacks](https://devstacks.app/)** (@DevStacks-app)
-  - We're building a next-gen Software Engineering cloud platform for education 🫶
+- Consulting at **[Very Good Ventures](https://verygood.ventures/)** (@vgventures)
+- Building the **[filament_scene](https://github.com/toyota-connected/tcna-packages/tree/main/packages/filament_scene)** game engine at @toyota-connected
 - **[mekomi](https://mekomi.dev/)** (@mekomidev)
   - We're a one-stop-shop consulting agency for all of your cloud & development needs (design, development, cloud hosting)
 
