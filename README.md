@@ -27,9 +27,8 @@ I just approach it in a [_weird_](https://en.wiktionary.org/wiki/weird#:~:text=C
 
 ### \~What am I working on?\~
 - Consulting at **[Very Good Ventures](https://verygood.ventures/)** (@vgventures)
-- Building the **[filament_scene](https://github.com/toyota-connected/tcna-packages/tree/main/packages/filament_scene)** game engine at @toyota-connected
-- **[mekomi](https://mekomi.dev/)** (@mekomidev)
-  - We're a one-stop-shop consulting agency for all of your cloud & development needs (design, development, cloud hosting)
+- Building the **[Fluorite](https://fluorite.game)** game engine at @toyota-connected
+- Dart/Flutter OSS packages
 
 ---
  
