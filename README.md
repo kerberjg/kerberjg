@@ -30,7 +30,7 @@ just approach in a [_weird_](https://en.wiktionary.org/wiki/weird#:~:text=Connec
 ### \~What am I working on?\~
 - Consulting at **[Very Good Ventures](https://verygood.ventures/)** (@vgventures)
 - Building the **[Fluorite](https://fluorite.game)** game engine
-- Dart/Flutter OSS packages
+- [Dart/Flutter OSS packages](https://pub.dev/publishers/kerberjg.dev/packages)
 
 ---
  
