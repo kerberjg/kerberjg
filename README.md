@@ -52,6 +52,7 @@ This will allow me to work more on fixing bugs and contributing new features!
 
 ### \~Links\~
 
+- [🎤 My talks](https://github.com/kerberjg/kerberjg/talks.md)
 - [💼 LinkedIn](https://linkedin.com/in/jamie-kerber/)
 - [🦋 BlueSky](https://bsky.app/profile/kerberjg.bsky.social)
 
